@@ -1,0 +1,44 @@
+[
+  {
+    "id": 1,
+    "name": "Rahul Sharma",
+    "role": "Oracle Developer at TCS",
+    "text": "ERPCloud's Oracle Forms training transformed my career. Real projects and placement support got me my dream job!",
+    "rating": 5
+  },
+  {
+    "id": 2,
+    "name": "Priya Patel",
+    "role": "Database Admin at Infosys",
+    "text": "Excellent trainers with 16+ years experience. The server access helped me practice 24/7. Highly recommended!",
+    "rating": 5
+  },
+  {
+    "id": 3,
+    "name": "Amit Kumar",
+    "role": "APEX Developer",
+    "text": "From zero to hero in Oracle APEX. The curriculum is industry-ready and instructors are very supportive.",
+    "rating": 5
+  },
+  {
+    "id": 4,
+    "name": "Sneha Reddy",
+    "role": "Reports Specialist at HCL",
+    "text": "The live projects in Oracle Reports were game-changers. Got placed within 2 months of course completion.",
+    "rating": 5
+  },
+  {
+    "id": 5,
+    "name": "Vikram Singh",
+    "role": "Fusion Middleware Consultant",
+    "text": "Comprehensive coverage of SOA Suite. The placement cell helped me connect with top MNCs.",
+    "rating": 5
+  },
+  {
+    "id": 6,
+    "name": "Neha Gupta",
+    "role": "OCI Architect",
+    "text": "Best institute for Oracle Cloud training. Hands-on labs and certification guidance was outstanding.",
+    "rating": 5
+  }
+]

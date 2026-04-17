@@ -1,0 +1,13 @@
+/* Custom App styles */
+* {
+  scroll-behavior: smooth;
+}
+
+body {
+  line-height: 1.6;
+}
+
+/* Smooth scrolling sections */
+section {
+  scroll-margin-top: 5rem;
+}

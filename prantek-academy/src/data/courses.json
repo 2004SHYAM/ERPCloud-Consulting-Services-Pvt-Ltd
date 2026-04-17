@@ -1,0 +1,100 @@
+[
+  {
+    "id": 1,
+    "title": "Oracle Forms 12c",
+    "description": "Master Oracle Forms 12c with real-time projects and deployment strategies.",
+    "duration": "3 Months",
+    "features": ["Live Projects", "Server Access", "Placement Assistance"],
+    "curriculum": [
+      "Oracle Forms Builder",
+      "PL/SQL Integration",
+      "Reports 12c",
+      "Deployment & WebUtil"
+    ],
+    "price": "$499"
+  },
+  {
+    "id": 2,
+    "title": "Oracle Reports 12c",
+    "description": "Advanced reporting with Oracle Reports 12c for enterprise applications.",
+    "duration": "2 Months",
+    "features": ["Real-time Projects", "Expert Trainers", "Certification Prep"],
+    "curriculum": [
+      "Report Builder",
+      "Parameter Forms",
+      "Data Models",
+      "Distribution"
+    ],
+    "price": "$399"
+  },
+  {
+    "id": 3,
+    "title": "Oracle Database 19c",
+    "description": "Complete Oracle Database administration and development training.",
+    "duration": "4 Months",
+    "features": ["Hands-on Labs", "Performance Tuning", "Backup/Recovery"],
+    "curriculum": [
+      "SQL & PL/SQL",
+      "Administration",
+      "RAC & Grid",
+      "Security"
+    ],
+    "price": "$599"
+  },
+  {
+    "id": 4,
+    "title": "Oracle APEX",
+    "description": "Build low-code web applications with Oracle APEX.",
+    "duration": "2.5 Months",
+    "features": ["Full-stack Development", "Interactive Reports", "Plugins"],
+    "curriculum": [
+      "APEX Workspace",
+      "Pages & Regions",
+      "Dynamic Actions",
+      "REST Services"
+    ],
+    "price": "$449"
+  },
+  {
+    "id": 5,
+    "title": "Oracle Fusion Middleware",
+    "description": "Enterprise SOA and integration with Oracle Fusion Middleware.",
+    "duration": "3.5 Months",
+    "features": ["SOA Suite", "OSB", "MFT", "IAM"],
+    "curriculum": [
+      "WebLogic Server",
+      "SOA Components",
+      "BPEL Processes",
+      "Adapters"
+    ],
+    "price": "$549"
+  },
+  {
+    "id": 6,
+    "title": "Oracle EBS R12",
+    "description": "Oracle E-Business Suite functional and technical training.",
+    "duration": "4 Months",
+    "features": ["Functional Modules", "Customization", "Extensions"],
+    "curriculum": [
+      "Financials",
+      "HRMS",
+      "Technical Framework",
+      "Workflow"
+    ],
+    "price": "$699"
+  },
+  {
+    "id": 7,
+    "title": "Oracle Cloud Infrastructure",
+    "description": "Cloud migration and OCI services for Oracle professionals.",
+    "duration": "3 Months",
+    "features": ["Compute", "Storage", "Networking", "Security"],
+    "curriculum": [
+      "OCI Console",
+      "IAM & Policies",
+      "Compute Instances",
+      "Autonomous Database"
+    ],
+    "price": "$499"
+  }
+]
